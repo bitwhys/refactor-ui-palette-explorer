@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url('./GeneraGrotesk-Light.woff2') format('woff2'),
+    url('./GeneraGrotesk-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./GeneraGrotesk-Regular.woff2') format('woff2'),
+    url('./GeneraGrotesk-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url('./GeneraGrotesk-Medium.woff2') format('woff2'),
+    url('./GeneraGrotesk-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./GeneraGrotesk-Bold.woff2') format('woff2'),
+    url('./GeneraGrotesk-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url('./GeneraGrotesk-Heavy.woff2') format('woff2'),
+    url('./GeneraGrotesk-Heavy.woff') format('woff');
+}

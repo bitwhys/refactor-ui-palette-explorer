@@ -1,0 +1,42 @@
+:root {
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url('./assets/genera-font/GeneraGrotesk-Light.woff2') format('woff2'),
+    url('./assets/genera-font/GeneraGrotesk-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('./assets/genera-font/GeneraGrotesk-Regular.woff2') format('woff2'),
+    url('./assets/genera-font/GeneraGrotesk-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url('./assets/genera-font/GeneraGrotesk-Medium.woff2') format('woff2'),
+    url('./assets/genera-font/GeneraGrotesk-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('./assets/genera-font/GeneraGrotesk-Bold.woff2') format('woff2'),
+    url('./assets/genera-font/GeneraGrotesk-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'Genera Grotesk';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url('./assets/genera-font/GeneraGrotesk-Heavy.woff2') format('woff2'),
+    url('./assets/genera-font/GeneraGrotesk-Heavy.woff') format('woff');
+}

@@ -1,0 +1,148 @@
+{
+  "palettes": [
+    {
+      "id": 1,
+      "primary": "base.cyan",
+      "neutral": "blue-gray",
+      "supporting": ["base.indigo", "base.pink", "base.red", "base.yellow"]
+    },
+    {
+      "id": 2,
+      "primary": ["base.blue", "vivid.yellow"],
+      "neutral": "blue-gray",
+      "supporting": ["base.cyan", "base.red"]
+    },
+    {
+      "id": 3,
+      "primary": ["base.purple", "base.teal"],
+      "neutral": "blue-gray",
+      "supporting": ["vivid.light-blue", "vivid.red", "vivid.yellow"]
+    },
+    {
+      "id": 4,
+      "primary": "base.teal",
+      "neutral": "blue-gray",
+      "supporting": ["base.blue", "base.purple", "base.red", "base.yellow"]
+    },
+    {
+      "id": 5,
+      "primary": "neutrals.blue-gray",
+      "neutral": "blue-gray",
+      "supporting": ["vivid.light-blue", "base.cyan", "vivid.pink", "vivid.red", "vivid.yellow", "base.teal"]
+    },
+    {
+      "id": 6,
+      "primary": ["base.red", "vivid.yellow"],
+      "neutral": "warm-gray",
+      "supporting": ["base.cyan", "base.lime-green"]
+    },
+    {
+      "id": 7,
+      "primary": "base.cyan",
+      "neutral": "warm-gray",
+      "supporting": ["base.blue", "base.red", "base.yellow", "base.teal"]
+    },
+    {
+      "id": 8,
+      "primary": "vivid.blue",
+      "neutral": "cool-gray",
+      "supporting": ["vivid.cyan", "vivid.orange", "vivid.red", "vivid.yellow"]
+    },
+    {
+      "id": 9,
+      "primary": "vivid.light-blue",
+      "neutral": "cool-gray",
+      "supporting": ["vivid.pink", "vivid.red", "vivid.yellow", "base.teal"]
+    },
+    {
+      "id": 10,
+      "primary": "base.indigo",
+      "neutral": "cool-gray",
+      "supporting": ["vivid.light-blue", "vivid.red", "vivid.yellow", "base.teal"]
+    },
+    {
+      "id": 11,
+      "primary": "vivid.pink",
+      "neutral": "cool-gray",
+      "supporting": ["vivid.purple", "vivid.cyan", "vivid.red", "vivid.yellow"]
+    },
+    {
+      "id": 12,
+      "primary": "base.green",
+      "neutral": "gray",
+      "supporting": ["base.purple", "base.red", "base.yellow"]
+    },
+    {
+      "id": 13,
+      "primary": ["vivid.yellow", "vivid.light-blue"],
+      "neutral": "gray",
+      "supporting": ["vivid.red", "base.teal"]
+    },
+    {
+      "id": 14,
+      "primary": ["base.orange", "base.lime-green"],
+      "neutral": "gray",
+      "supporting": ["base.light-blue", "base.red", "base.yellow"]
+    },
+    {
+      "id": 15,
+      "primary": "base.blue",
+      "neutral": "blue-gray",
+      "supporting": ["vivid.teal", "base.red", "base.yellow"]
+    },
+    {
+      "id": 16,
+      "primary": ["base.purple", "vivid.red"],
+      "neutral": "blue-gray",
+      "supporting": ["vivid.teal", "vivid.yellow"]
+    },
+    {
+      "id": 17,
+      "primary": ["base.magenta", "vivid.orange"],
+      "neutral": "blue-gray",
+      "supporting": ["vivid.yellow", "vivid.red", "vivid.green"]
+    },
+    {
+      "id": 18,
+      "primary": "base.purple",
+      "neutral": "warm-gray",
+      "supporting": ["base.cyan", "vivid.red", "base.yellow", "vivid.green"]
+    },
+    {
+      "id": 19,
+      "primary": ["base.indigo", "vivid.orange"],
+      "neutral": "cool-gray",
+      "supporting": ["base.magenta", "base.red", "base.yellow", "base.green"]
+    },
+    {
+      "id": 20,
+      "primary": ["base.light-blue", "base.green"],
+      "neutral": "cool-gray",
+      "supporting": ["base.purple", "base.red", "base.yellow"]
+    },
+    {
+      "id": 21,
+      "primary": "vivid.orange",
+      "neutral": "cool-gray",
+      "supporting": ["base.indigo", "base.red", "base.yellow", "base.green"]
+    },
+    {
+      "id": 22,
+      "primary": ["base.indigo", "vivid.cyan"],
+      "neutral": "cool-gray",
+      "supporting": ["vivid.pink", "vivid.red", "vivid.yellow", "vivid.green"]
+    },
+    {
+      "id": 23,
+      "primary": "vivid-teal",
+      "neutral": "gray",
+      "supporting": ["vivid.yellow", "vivid.red"]
+    },
+    {
+      "id": 24,
+      "primary": "base-yellow",
+      "neutral": "gray",
+      "supporting": ["base.blue", "base.orange", "base.red", "base.green"]
+    }
+  ]
+}
